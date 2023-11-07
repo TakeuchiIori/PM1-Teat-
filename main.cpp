@@ -7,8 +7,6 @@ int main() {
 	std::cout << "Hello New World\n";
 
 	std::cout << "Pull Ruquest branch change\n";
-	
 	std::cout << "Clone\n";
-	
 	return 0;
 }
